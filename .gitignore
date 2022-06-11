@@ -4,7 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-
+info.txt
+.env.local
+blogmedium/node_modules
 # testing
 /coverage
 
